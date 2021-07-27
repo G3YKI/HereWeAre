@@ -1,0 +1,57 @@
+<webalbum version="1.8.2">
+  <title>Hebrides 2021</title>
+  <description>
+    <line>A few snaps from the trip</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="100" height="75">medium</thumbsize>
+    <outputdirectory>C:\Users\Ken\Documents\Sailingweb\images\hebrides2021\Hebrides2021\</outputdirectory>
+    <navigateinloop>False</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Default</colourscheme>
+    <pagecolor>16777215</pagecolor>
+    <textcolor>0</textcolor>
+    <linkcolor>16711680</linkcolor>
+    <hotlinkcolor>255</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF4985 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF4994 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF4995 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF4996 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF4998 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF5001 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\IMG_20210712_143349.jpg</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF5017 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF5034 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF5039 - Copy.JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Users\Ken\Pictures\Sailing\Hebrides2021\DSCF5042 - Copy.JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>
